@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GlobalNewsApp</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="andhra">Andhra News</string>
+    <string name="tamil">Tamil News</string>
+    <string name="indian">Indian News</string>
+    <string name="global">World News</string>
+    <string name="technology">Technology</string>
+    <string name="business">Business</string>
+    <string name="health">Health</string>
+    <string name="education">Education</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="tamilnew">Tamil News in Telugu</string>
+    <string name="worldnews">World News in Telugu</string>
+    <string name="indiannews">Indian News in Telugu</string>
+</resources>
